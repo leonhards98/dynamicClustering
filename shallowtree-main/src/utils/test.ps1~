@@ -1,0 +1,3 @@
+$a = TestPath "a"
+
+Write-host $a
