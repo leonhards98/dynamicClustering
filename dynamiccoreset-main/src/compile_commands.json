@@ -1,0 +1,317 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "main.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/main.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset/cluster_assignment_list.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset/cluster_assignment_list.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset/clustering_result.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset/clustering_result.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset/coreset.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset/coreset.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset/kmeans.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset/kmeans.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset/random.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset/random.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset/sensitivity_sampling.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset/sensitivity_sampling.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset/sensitivity_sampling_old.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset/sensitivity_sampling_old.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset/stop_watch.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset/stop_watch.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset_old/cluster_assignment_list.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset_old/cluster_assignment_list.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset_old/clustering_result.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset_old/clustering_result.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset_old/coreset.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset_old/coreset.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset_old/kmeans.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset_old/kmeans.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset_old/random.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset_old/random.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset_old/sensitivity_sampling.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset_old/sensitivity_sampling.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "coreset_old/stop_watch.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/coreset_old/stop_watch.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "dynamic_coreset/coreset_node.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/dynamic_coreset/coreset_node.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "dynamic_coreset/coreset_tree.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/dynamic_coreset/coreset_tree.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "dynamic_coreset/dyn_coreset.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/dynamic_coreset/dyn_coreset.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "kmeanspp/fastKMeans.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/kmeanspp/fastKMeans.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I",
+      "../../boost_1_81_0/boost_1_81_0/",
+      "-I",
+      "../../blaze-3.8.1/",
+      "-I",
+      "/opt/gurobi1001/linux64/include/",
+      "kmeanspp/sampleTree.cpp"
+    ],
+    "directory": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src",
+    "file": "/home/lsidl/Desktop/Arbeit/dynamic_coreset/src/kmeanspp/sampleTree.cpp"
+  }
+]
